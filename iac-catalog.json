@@ -1,0 +1,78 @@
+{
+    "version": "1.0",
+    "items": [
+        {
+            "csp": "AWS",
+            "title": "Simple VM",
+            "timestamp": "2022-06-22T09:00:00.000Z",
+            "url": "https://github.com/SungYub-Kang/iac-sample1",
+            "icon": "https://github.com/SungYub-Kang/iac-sample1/raw/main/img/icon.png",
+            "thumbnail": null,
+	    "usesKubernetes": false
+        },
+        {
+            "csp": "AWS",
+            "title": "E-Market",
+            "timestamp": "2022-06-22T09:00:00.000Z",
+            "url": "https://github.com/SungYub-Kang/iac-sample2",
+            "icon": "https://github.com/SungYub-Kang/iac-sample2/raw/main/img/icon.png",
+            "thumbnail": null,
+	    "usesKubernetes": false
+        },
+        {
+            "csp": "AWS",
+            "title": "CloudFront+VM",
+            "timestamp": "2022-06-22T09:00:00.000Z",
+            "url": "https://github.com/SungYub-Kang/iac-sample3",
+            "icon": "https://github.com/SungYub-Kang/iac-sample3/raw/main/img/icon.png",
+            "thumbnail": "https://github.com/SungYub-Kang/iac-sample3/raw/main/img/thumbnail.png",
+	    "usesKubernetes": false
+        },
+        {
+            "csp": "AWS",
+            "title": "CloudFront+VM",
+            "timestamp": "2022-02-01T18:59:59.999Z",
+            "url": "https://github.com/SungYub-Kang/iac-sample4",
+            "icon": "https://github.com/SungYub-Kang/iac-sample4/raw/main/img/icon.png",
+            "thumbnail": "https://github.com/SungYub-Kang/iac-sample4/raw/main/img/thumbnail.png",
+	    "usesKubernetes": false
+        },
+        {
+            "csp": "AWS",
+            "title": "EKS",
+            "timestamp": "2022-02-01T18:59:59.999Z",
+            "url": "https://github.com/SungYub-Kang/iac-sample5",
+            "icon": "https://github.com/SungYub-Kang/iac-sample5/raw/main/img/icon.png",
+            "thumbnail": "https://github.com/SungYub-Kang/iac-sample5/raw/main/img/thumbnail.png",
+	    "usesKubernetes": true
+        },
+        {
+            "csp": "AWS",
+            "title": "OOOOOO",
+            "timestamp": "2022-02-01T18:59:59.999Z",
+            "url": "https://github.com/SungYub-Kang/iac-sample6",
+            "icon": "https://github.com/SungYub-Kang/iac-sample6/raw/main/img/icon.png",
+            "thumbnail": null,
+	    "usesKubernetes": true
+        },
+        {
+            "csp": "GCP",
+            "title": "GCP Sample",
+            "timestamp": "2022-02-01T18:59:59.999Z",
+            "url": "https://github.com/SungYub-Kang/ksy-iac-module",
+            "icon": null,
+            "thumbnail": null,
+	    "usesKubernetes": false
+        },
+        {
+            "csp": "Azure",
+            "title": "Azure Sample",
+            "timestamp": "2022-02-01T18:59:59.999Z",
+            "url": "https://github.com/SungYub-Kang/ksy-iac-module",
+            "icon": null,
+            "thumbnail": null,
+	    "usesKubernetes": false
+        }
+    ]
+}
+
