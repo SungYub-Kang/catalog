@@ -1,0 +1,47 @@
+{
+    "version": "1.0",
+    "items": [
+        {
+            "title": "grafana",
+            "url": "https://github.com/SungYub-Kang/ksy-pac/tree/main/helm-charts-main/stable/grafana",
+            "icon": null,
+            "mainPage": null,
+            "adminPage": null
+        },
+        {
+            "title": "jenkins",
+            "url": "https://github.com/SungYub-Kang/ksy-pac/tree/main/helm-charts-main/stable/jenkins",
+            "icon": null,
+            "mainPage": null,
+            "adminPage": null
+        },
+        {
+            "title": "prometheus",
+            "url": "https://github.com/SungYub-Kang/ksy-pac/tree/main/helm-charts-main/stable/kube-prometheus",
+            "icon": null,
+            "mainPage": null,
+            "adminPage": null
+        },
+        {
+            "title": "mariadb",
+            "url": "https://github.com/SungYub-Kang/ksy-pac/tree/main/helm-charts-main/stable/mariadb",
+            "icon": null,
+            "mainPage": null,
+            "adminPage": null
+        },
+        {
+            "title": "memcached",
+            "url": "https://github.com/SungYub-Kang/ksy-pac/tree/main/helm-charts-main/stable/memcached",
+            "icon": null,
+            "mainPage": null,
+            "adminPage": null
+        },
+        {
+            "title": "wordpress",
+            "url": "https://github.com/SungYub-Kang/ksy-pac/tree/main/helm-charts-main/stable/wordpress",
+            "icon": null,
+            "mainPage": null,
+            "adminPage": null
+        }
+    ]
+}
